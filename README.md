@@ -1,4 +1,5 @@
 💬 Browser-Based Chat Application (Python + Tkinter + Sockets)
+
 📘 Project Overview
 
 This is a real-time chat application built using Python sockets and a Tkinter GUI.
